@@ -1,0 +1,11 @@
+/home/louvestaim/Documentos/Projetos/SegundoPrograma/bin/Debug/netcoreapp3.1/SegundoPrograma
+/home/louvestaim/Documentos/Projetos/SegundoPrograma/bin/Debug/netcoreapp3.1/SegundoPrograma.deps.json
+/home/louvestaim/Documentos/Projetos/SegundoPrograma/bin/Debug/netcoreapp3.1/SegundoPrograma.runtimeconfig.json
+/home/louvestaim/Documentos/Projetos/SegundoPrograma/bin/Debug/netcoreapp3.1/SegundoPrograma.runtimeconfig.dev.json
+/home/louvestaim/Documentos/Projetos/SegundoPrograma/bin/Debug/netcoreapp3.1/SegundoPrograma.dll
+/home/louvestaim/Documentos/Projetos/SegundoPrograma/bin/Debug/netcoreapp3.1/SegundoPrograma.pdb
+/home/louvestaim/Documentos/Projetos/SegundoPrograma/obj/Debug/netcoreapp3.1/SegundoPrograma.csprojAssemblyReference.cache
+/home/louvestaim/Documentos/Projetos/SegundoPrograma/obj/Debug/netcoreapp3.1/SegundoPrograma.AssemblyInfoInputs.cache
+/home/louvestaim/Documentos/Projetos/SegundoPrograma/obj/Debug/netcoreapp3.1/SegundoPrograma.AssemblyInfo.cs
+/home/louvestaim/Documentos/Projetos/SegundoPrograma/obj/Debug/netcoreapp3.1/SegundoPrograma.dll
+/home/louvestaim/Documentos/Projetos/SegundoPrograma/obj/Debug/netcoreapp3.1/SegundoPrograma.pdb

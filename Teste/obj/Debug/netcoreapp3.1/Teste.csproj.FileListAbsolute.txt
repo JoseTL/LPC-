@@ -1,0 +1,11 @@
+/home/louvestaim/Documentos/Projetos/Teste/bin/Debug/netcoreapp3.1/Teste
+/home/louvestaim/Documentos/Projetos/Teste/bin/Debug/netcoreapp3.1/Teste.deps.json
+/home/louvestaim/Documentos/Projetos/Teste/bin/Debug/netcoreapp3.1/Teste.runtimeconfig.json
+/home/louvestaim/Documentos/Projetos/Teste/bin/Debug/netcoreapp3.1/Teste.runtimeconfig.dev.json
+/home/louvestaim/Documentos/Projetos/Teste/bin/Debug/netcoreapp3.1/Teste.dll
+/home/louvestaim/Documentos/Projetos/Teste/bin/Debug/netcoreapp3.1/Teste.pdb
+/home/louvestaim/Documentos/Projetos/Teste/obj/Debug/netcoreapp3.1/Teste.csprojAssemblyReference.cache
+/home/louvestaim/Documentos/Projetos/Teste/obj/Debug/netcoreapp3.1/Teste.AssemblyInfoInputs.cache
+/home/louvestaim/Documentos/Projetos/Teste/obj/Debug/netcoreapp3.1/Teste.AssemblyInfo.cs
+/home/louvestaim/Documentos/Projetos/Teste/obj/Debug/netcoreapp3.1/Teste.dll
+/home/louvestaim/Documentos/Projetos/Teste/obj/Debug/netcoreapp3.1/Teste.pdb

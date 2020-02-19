@@ -1,0 +1,11 @@
+/home/louvestaim/Documentos/Projetos/EntradaSaidadeDados/bin/Debug/netcoreapp3.1/EntradaSaidadeDados
+/home/louvestaim/Documentos/Projetos/EntradaSaidadeDados/bin/Debug/netcoreapp3.1/EntradaSaidadeDados.deps.json
+/home/louvestaim/Documentos/Projetos/EntradaSaidadeDados/bin/Debug/netcoreapp3.1/EntradaSaidadeDados.runtimeconfig.json
+/home/louvestaim/Documentos/Projetos/EntradaSaidadeDados/bin/Debug/netcoreapp3.1/EntradaSaidadeDados.runtimeconfig.dev.json
+/home/louvestaim/Documentos/Projetos/EntradaSaidadeDados/bin/Debug/netcoreapp3.1/EntradaSaidadeDados.dll
+/home/louvestaim/Documentos/Projetos/EntradaSaidadeDados/bin/Debug/netcoreapp3.1/EntradaSaidadeDados.pdb
+/home/louvestaim/Documentos/Projetos/EntradaSaidadeDados/obj/Debug/netcoreapp3.1/EntradaSaidadeDados.csprojAssemblyReference.cache
+/home/louvestaim/Documentos/Projetos/EntradaSaidadeDados/obj/Debug/netcoreapp3.1/EntradaSaidadeDados.AssemblyInfoInputs.cache
+/home/louvestaim/Documentos/Projetos/EntradaSaidadeDados/obj/Debug/netcoreapp3.1/EntradaSaidadeDados.AssemblyInfo.cs
+/home/louvestaim/Documentos/Projetos/EntradaSaidadeDados/obj/Debug/netcoreapp3.1/EntradaSaidadeDados.dll
+/home/louvestaim/Documentos/Projetos/EntradaSaidadeDados/obj/Debug/netcoreapp3.1/EntradaSaidadeDados.pdb

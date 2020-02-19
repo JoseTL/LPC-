@@ -1,0 +1,11 @@
+/home/louvestaim/Documentos/Projetos/URI_Exercicio1/bin/Debug/netcoreapp3.1/URI_Exercicio1
+/home/louvestaim/Documentos/Projetos/URI_Exercicio1/bin/Debug/netcoreapp3.1/URI_Exercicio1.deps.json
+/home/louvestaim/Documentos/Projetos/URI_Exercicio1/bin/Debug/netcoreapp3.1/URI_Exercicio1.runtimeconfig.json
+/home/louvestaim/Documentos/Projetos/URI_Exercicio1/bin/Debug/netcoreapp3.1/URI_Exercicio1.runtimeconfig.dev.json
+/home/louvestaim/Documentos/Projetos/URI_Exercicio1/bin/Debug/netcoreapp3.1/URI_Exercicio1.dll
+/home/louvestaim/Documentos/Projetos/URI_Exercicio1/bin/Debug/netcoreapp3.1/URI_Exercicio1.pdb
+/home/louvestaim/Documentos/Projetos/URI_Exercicio1/obj/Debug/netcoreapp3.1/URI_Exercicio1.csprojAssemblyReference.cache
+/home/louvestaim/Documentos/Projetos/URI_Exercicio1/obj/Debug/netcoreapp3.1/URI_Exercicio1.AssemblyInfoInputs.cache
+/home/louvestaim/Documentos/Projetos/URI_Exercicio1/obj/Debug/netcoreapp3.1/URI_Exercicio1.AssemblyInfo.cs
+/home/louvestaim/Documentos/Projetos/URI_Exercicio1/obj/Debug/netcoreapp3.1/URI_Exercicio1.dll
+/home/louvestaim/Documentos/Projetos/URI_Exercicio1/obj/Debug/netcoreapp3.1/URI_Exercicio1.pdb

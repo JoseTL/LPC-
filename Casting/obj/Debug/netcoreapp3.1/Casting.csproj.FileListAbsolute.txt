@@ -1,0 +1,11 @@
+/home/louvestaim/Documentos/Projetos/Casting/bin/Debug/netcoreapp3.1/Casting
+/home/louvestaim/Documentos/Projetos/Casting/bin/Debug/netcoreapp3.1/Casting.deps.json
+/home/louvestaim/Documentos/Projetos/Casting/bin/Debug/netcoreapp3.1/Casting.runtimeconfig.json
+/home/louvestaim/Documentos/Projetos/Casting/bin/Debug/netcoreapp3.1/Casting.runtimeconfig.dev.json
+/home/louvestaim/Documentos/Projetos/Casting/bin/Debug/netcoreapp3.1/Casting.dll
+/home/louvestaim/Documentos/Projetos/Casting/bin/Debug/netcoreapp3.1/Casting.pdb
+/home/louvestaim/Documentos/Projetos/Casting/obj/Debug/netcoreapp3.1/Casting.csprojAssemblyReference.cache
+/home/louvestaim/Documentos/Projetos/Casting/obj/Debug/netcoreapp3.1/Casting.AssemblyInfoInputs.cache
+/home/louvestaim/Documentos/Projetos/Casting/obj/Debug/netcoreapp3.1/Casting.AssemblyInfo.cs
+/home/louvestaim/Documentos/Projetos/Casting/obj/Debug/netcoreapp3.1/Casting.dll
+/home/louvestaim/Documentos/Projetos/Casting/obj/Debug/netcoreapp3.1/Casting.pdb

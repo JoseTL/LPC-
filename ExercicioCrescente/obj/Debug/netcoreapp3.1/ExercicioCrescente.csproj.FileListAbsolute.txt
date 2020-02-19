@@ -1,0 +1,11 @@
+/home/louvestaim/Documentos/Projetos/ExercicioCrescente/bin/Debug/netcoreapp3.1/ExercicioCrescente
+/home/louvestaim/Documentos/Projetos/ExercicioCrescente/bin/Debug/netcoreapp3.1/ExercicioCrescente.deps.json
+/home/louvestaim/Documentos/Projetos/ExercicioCrescente/bin/Debug/netcoreapp3.1/ExercicioCrescente.runtimeconfig.json
+/home/louvestaim/Documentos/Projetos/ExercicioCrescente/bin/Debug/netcoreapp3.1/ExercicioCrescente.runtimeconfig.dev.json
+/home/louvestaim/Documentos/Projetos/ExercicioCrescente/bin/Debug/netcoreapp3.1/ExercicioCrescente.dll
+/home/louvestaim/Documentos/Projetos/ExercicioCrescente/bin/Debug/netcoreapp3.1/ExercicioCrescente.pdb
+/home/louvestaim/Documentos/Projetos/ExercicioCrescente/obj/Debug/netcoreapp3.1/ExercicioCrescente.csprojAssemblyReference.cache
+/home/louvestaim/Documentos/Projetos/ExercicioCrescente/obj/Debug/netcoreapp3.1/ExercicioCrescente.AssemblyInfoInputs.cache
+/home/louvestaim/Documentos/Projetos/ExercicioCrescente/obj/Debug/netcoreapp3.1/ExercicioCrescente.AssemblyInfo.cs
+/home/louvestaim/Documentos/Projetos/ExercicioCrescente/obj/Debug/netcoreapp3.1/ExercicioCrescente.dll
+/home/louvestaim/Documentos/Projetos/ExercicioCrescente/obj/Debug/netcoreapp3.1/ExercicioCrescente.pdb

@@ -1,0 +1,11 @@
+/home/louvestaim/Documentos/Projetos/Matriz/obj/Debug/netcoreapp3.1/Matriz.csprojAssemblyReference.cache
+/home/louvestaim/Documentos/Projetos/Matriz/obj/Debug/netcoreapp3.1/Matriz.AssemblyInfoInputs.cache
+/home/louvestaim/Documentos/Projetos/Matriz/obj/Debug/netcoreapp3.1/Matriz.AssemblyInfo.cs
+/home/louvestaim/Documentos/Projetos/Matriz/bin/Debug/netcoreapp3.1/Matriz
+/home/louvestaim/Documentos/Projetos/Matriz/bin/Debug/netcoreapp3.1/Matriz.deps.json
+/home/louvestaim/Documentos/Projetos/Matriz/bin/Debug/netcoreapp3.1/Matriz.runtimeconfig.json
+/home/louvestaim/Documentos/Projetos/Matriz/bin/Debug/netcoreapp3.1/Matriz.runtimeconfig.dev.json
+/home/louvestaim/Documentos/Projetos/Matriz/bin/Debug/netcoreapp3.1/Matriz.dll
+/home/louvestaim/Documentos/Projetos/Matriz/bin/Debug/netcoreapp3.1/Matriz.pdb
+/home/louvestaim/Documentos/Projetos/Matriz/obj/Debug/netcoreapp3.1/Matriz.dll
+/home/louvestaim/Documentos/Projetos/Matriz/obj/Debug/netcoreapp3.1/Matriz.pdb

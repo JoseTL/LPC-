@@ -1,0 +1,11 @@
+/home/louvestaim/Documentos/Projetos/ExercicioNotaDoAluno/bin/Debug/netcoreapp3.1/ExercicioNotaDoAluno
+/home/louvestaim/Documentos/Projetos/ExercicioNotaDoAluno/bin/Debug/netcoreapp3.1/ExercicioNotaDoAluno.deps.json
+/home/louvestaim/Documentos/Projetos/ExercicioNotaDoAluno/bin/Debug/netcoreapp3.1/ExercicioNotaDoAluno.runtimeconfig.json
+/home/louvestaim/Documentos/Projetos/ExercicioNotaDoAluno/bin/Debug/netcoreapp3.1/ExercicioNotaDoAluno.runtimeconfig.dev.json
+/home/louvestaim/Documentos/Projetos/ExercicioNotaDoAluno/bin/Debug/netcoreapp3.1/ExercicioNotaDoAluno.dll
+/home/louvestaim/Documentos/Projetos/ExercicioNotaDoAluno/bin/Debug/netcoreapp3.1/ExercicioNotaDoAluno.pdb
+/home/louvestaim/Documentos/Projetos/ExercicioNotaDoAluno/obj/Debug/netcoreapp3.1/ExercicioNotaDoAluno.csprojAssemblyReference.cache
+/home/louvestaim/Documentos/Projetos/ExercicioNotaDoAluno/obj/Debug/netcoreapp3.1/ExercicioNotaDoAluno.AssemblyInfoInputs.cache
+/home/louvestaim/Documentos/Projetos/ExercicioNotaDoAluno/obj/Debug/netcoreapp3.1/ExercicioNotaDoAluno.AssemblyInfo.cs
+/home/louvestaim/Documentos/Projetos/ExercicioNotaDoAluno/obj/Debug/netcoreapp3.1/ExercicioNotaDoAluno.dll
+/home/louvestaim/Documentos/Projetos/ExercicioNotaDoAluno/obj/Debug/netcoreapp3.1/ExercicioNotaDoAluno.pdb

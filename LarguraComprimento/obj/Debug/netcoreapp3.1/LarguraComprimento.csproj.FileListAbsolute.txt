@@ -1,0 +1,11 @@
+/home/louvestaim/Documentos/Projetos/LarguraComprimento/bin/Debug/netcoreapp3.1/LarguraComprimento
+/home/louvestaim/Documentos/Projetos/LarguraComprimento/bin/Debug/netcoreapp3.1/LarguraComprimento.deps.json
+/home/louvestaim/Documentos/Projetos/LarguraComprimento/bin/Debug/netcoreapp3.1/LarguraComprimento.runtimeconfig.json
+/home/louvestaim/Documentos/Projetos/LarguraComprimento/bin/Debug/netcoreapp3.1/LarguraComprimento.runtimeconfig.dev.json
+/home/louvestaim/Documentos/Projetos/LarguraComprimento/bin/Debug/netcoreapp3.1/LarguraComprimento.dll
+/home/louvestaim/Documentos/Projetos/LarguraComprimento/bin/Debug/netcoreapp3.1/LarguraComprimento.pdb
+/home/louvestaim/Documentos/Projetos/LarguraComprimento/obj/Debug/netcoreapp3.1/LarguraComprimento.csprojAssemblyReference.cache
+/home/louvestaim/Documentos/Projetos/LarguraComprimento/obj/Debug/netcoreapp3.1/LarguraComprimento.AssemblyInfoInputs.cache
+/home/louvestaim/Documentos/Projetos/LarguraComprimento/obj/Debug/netcoreapp3.1/LarguraComprimento.AssemblyInfo.cs
+/home/louvestaim/Documentos/Projetos/LarguraComprimento/obj/Debug/netcoreapp3.1/LarguraComprimento.dll
+/home/louvestaim/Documentos/Projetos/LarguraComprimento/obj/Debug/netcoreapp3.1/LarguraComprimento.pdb
